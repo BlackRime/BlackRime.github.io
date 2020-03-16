@@ -3,4 +3,4 @@ layout: misc
 title: Contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+저에게 궁금한 부분과 의아한 점이 있으신 분들은 raimverry96@gmail.com로 메일을 보내주시거나, [Github](https://github.com/BlackRime)에서 코드를 확인 하시면 감사하겠습니다.

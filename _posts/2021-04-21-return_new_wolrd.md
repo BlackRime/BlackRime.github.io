@@ -2,8 +2,8 @@
 layout: post
 title: "Return Hello World!!"
 author: "BlackRime"
-categories: post
-tags: [documentation,sample]
+categories: sample
+tags: [sample]
 image: hello_world.jpeg
 ---
 
